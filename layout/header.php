@@ -13,7 +13,7 @@ $menu_aktif = $menu_aktif ?? '';
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
 </head>
 <body>
-<nav class="navbar navbar-expand-lg bg-warning">
+<nav class="navbar navbar-expand-lg bg-success">
     <div class="container-fluid">
         <a class="navbar-brand" href="buku.php">Perpustakaan</a>
         <button class="navbar-toggler" type="button"
